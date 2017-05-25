@@ -1,4 +1,0 @@
-var buf = new Buffer(256);
-len = buf.write("www.runoob.com", "utf-8");
-
-console.log("input text number " + len);

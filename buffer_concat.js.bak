@@ -1,4 +1,0 @@
-var buffer1 = new Buffer('²ËÄñ½Ì³Ì ');
-var buffer2 = new Buffer('www.runoob.com');
-var buffer3 = Buffer.concat([buffer1,buffer2]);
-console.log("buffer3 ÄÚÈÝ: " + buffer3.toString());
